@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stayzilla</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="city">
+        <item>bangalore</item>
+        <item>chennai</item>
+        <item>coimbatore</item>
+        <item>mumbai</item>
+        <item>pune</item>
+        <item>mysore</item>
+        <item>kochi</item>
+        <item>tirupathi</item>
+        <item>ooty</item>
+        <item>Coorg</item>
+        <item>goa</item>
+        <item>mangalore</item>
+        <item>trihcy</item>
+    </string-array>
+
+</resources>
